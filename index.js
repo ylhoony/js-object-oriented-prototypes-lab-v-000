@@ -21,4 +21,8 @@ BoardMember.prototype.releasePressStatement = function(){
 
 BoardMember.prototype.sayHi = function(){
   return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4171d097357e1cd902928c61a14f60c068464c25
